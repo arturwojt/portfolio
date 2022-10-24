@@ -14,6 +14,6 @@ I am young person with various interests such as playing video games or making m
 I take an active part on crowdtesting site test.io, where I can make bug reports, bug reproductions or bug confirmation tasks.
 
 # Books read
-* [P. Wicherski - Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/l)
+* [P. Wicherski - Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * Radosław Smilgin - Zawód Tester
 
