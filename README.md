@@ -17,3 +17,5 @@ I take an active part on crowdtesting site test.io, where I can make bug reports
 * [P. Wicherski - Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * Radosław Smilgin - Zawód Tester
 
+# Webinars
+Łukasz Pietrucha - Dzień z życia testera
