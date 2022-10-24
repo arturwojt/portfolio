@@ -1,7 +1,7 @@
 # portfolio
 
 # About me
-I am young person with various interests such as playing video games or making music. My life is closely related to computers and I've always wanted my career to be related to them. I want to start my career as a software tester because in my feeling I was born with skills needed for this proffession. I am open minded and inquisitive and I believe, that my path will be fully of valuable experiences.
+I am young person with various interests such as playing video games or making music. My life is closely related to computers and I've always wanted my career to be related to them. I want to start my career as a software tester because in my feeling I was born with skills needed for this profession. I am open minded and inquisitive and I believe, that my path will be fully of valuable experiences.
 
 # Skills and Tech Stack
 * Postman
