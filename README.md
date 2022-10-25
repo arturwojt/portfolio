@@ -20,3 +20,6 @@ I take an active part on crowdtesting site test.io, where I can make bug reports
 
 # Webinars
 Łukasz Pietrucha - Dzień z życia testera
+
+# Test cases examples
+[Test cases for shinden.pl](https://docs.google.com/spreadsheets/d/1jXjM8EDqzLd8sJauUDRDOk036nyb3Si1pFO5FVLA1iQ/edit?usp=sharing))
