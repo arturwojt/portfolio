@@ -6,6 +6,7 @@ I am young person with various interests such as playing video games or making m
 # Skills and Tech Stack
 * Postman
 * Git
+* Cypress
 * TestLink
 * SQL
 * Chrome Dev Tools
