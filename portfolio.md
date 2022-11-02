@@ -23,3 +23,8 @@ I take an active part on crowdtesting site test.io, where I can make bug reports
 
 # Test cases examples
 [Test cases for shinden.pl](https://docs.google.com/spreadsheets/d/1jXjM8EDqzLd8sJauUDRDOk036nyb3Si1pFO5FVLA1iQ/edit?usp=sharing)
+
+# Reported bugs
+* ![image](https://user-images.githubusercontent.com/116445829/199610124-715e3178-da3f-4c3e-920e-0e65ef2ec57b.png)
+
+
